@@ -1,0 +1,20 @@
+<abstract id="Abs1">
+ 
+ Background 
+ Epidemiological studies suggest a potential role for obesity and determinants of adult stature in prostate cancer risk and mortality, but the relationships described in the literature are complex. To address uncertainty over the causal nature of previous observational findings, we investigated associations of height- and adiposity-related genetic variants with prostate cancer risk and mortality. 
+ 
+ 
+ Methods 
+ We conducted a case–control study based on 20,848 prostate cancers and 20,214 controls of European ancestry from 22 studies in the PRACTICAL consortium. We constructed genetic risk scores that summed each man’s number of height and BMI increasing alleles across multiple single nucleotide polymorphisms robustly associated with each phenotype from published genome-wide association studies. 
+ 
+ 
+ Results 
+ The genetic risk scores explained 6.31 and 1.46 % of the variability in height and BMI, respectively. There was only weak evidence that genetic variants previously associated with increased BMI were associated with a lower prostate cancer risk (odds ratio per standard deviation increase in BMI genetic score 0.98; 95 % CI 0.96, 1.00;  p  = 0.07). Genetic variants associated with increased height were not associated with prostate cancer incidence (OR 0.99; 95 % CI 0.97, 1.01;  p  = 0.23), but were associated with an increase (OR 1.13; 95 % CI 1.08, 1.20) in prostate cancer mortality among low-grade disease ( p  heterogeneity, low vs. high grade &lt;0.001). Genetic variants associated with increased BMI were associated with an increase (OR 1.08; 95 % CI 1.03, 1.14) in all-cause mortality among men with low-grade disease ( p  heterogeneity = 0.03). 
+ 
+ 
+ Conclusions 
+ We found little evidence of a substantial effect of genetically elevated height or BMI on prostate cancer risk, suggesting that previously reported observational associations may reflect common environmental determinants of height or BMI and prostate cancer risk. Genetically elevated height and BMI were associated with increased mortality (prostate cancer-specific and all-cause, respectively) in men with low-grade disease, a potentially informative but novel finding that requires replication. 
+ 
+ 
+ Electronic supplementary material 
+ The online version of this article (doi:10.1007/s10552-015-0654-9) contains supplementary material, which is available to authorized users.

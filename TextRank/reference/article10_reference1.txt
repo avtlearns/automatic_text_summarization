@@ -1,0 +1,18 @@
+Introduction 
+ Several studies have shown an increased risk of cancer after non melanoma skin cancers (NMSC) but the individual risk factors underlying this risk have not been elucidated, especially in relation to sun exposure and skin sensitivity to sunlight. 
+ 
+ 
+ Purpose 
+ The aim of this study was to examine the individual risk factors associated with the development of subsequent cancers after non melanoma skin cancer. 
+ 
+ 
+ Methods 
+ Participants in the population-based New Hampshire Skin Cancer Study provided detailed risk factor data, and subsequent cancers were identified via linkage with the state cancer registry. Deaths were identified via state and national death records. A Cox proportional hazard model was used to estimate risk of subsequent malignancies in NMSC patients versus controls and to assess the potential confounding effects of multiple risk factors on this risk. 
+ 
+ 
+ Results 
+ Among 3584 participants, risk of a subsequent cancer (other than NMSC) was higher after basal cell carcinoma (BCC) (adjusted HR 1.40 [95% CI 1.15, 1.71]) than squamous cell carcinoma (SCC) (adjusted HR 1.18 [95% CI 0.95, 1.46]) compared to controls (adjusted for age, sex and current cigarette smoking). After SCC, risk was higher among those diagnosed before age 60 (HR 1.96 [95% CI 1.24, 3.12]). An over 3-fold risk of melanoma after SCC (HR 3.62; 95% CI 1.85, 7.11) and BCC (HR 3.28; 95% CI 1.66, 6.51) was observed, even after further adjustment for sun exposure-related factors and family history of skin cancer. In men, prostate cancer incidence was higher after BCC compared to controls (HR 1.64; 95% CI 1.10, 2.46). 
+ 
+ 
+ Conclusions 
+ Our population-based study indicates an increased cancer risk after NMSC that cannot be fully explained by known cancer risk factors.

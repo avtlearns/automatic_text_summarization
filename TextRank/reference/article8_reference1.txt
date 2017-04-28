@@ -1,0 +1,14 @@
+Background 
+ Smoking is a known lung cancer cause, but no detailed quantitative systematic review exists. We summarize evidence for various indices. 
+ 
+ 
+ Methods 
+ Papers published before 2000 describing epidemiological studies involving 100+ lung cancer cases were obtained from Medline and other sources. Studies were classified as principal, or subsidiary where cases overlapped with principal studies. Data were extracted on design, exposures, histological types and confounder adjustment. RRs/ORs and 95% CIs were extracted for ever, current and ex smoking of cigarettes, pipes and cigars and indices of cigarette type and dose–response. Meta-analyses and meta-regressions investigated how relationships varied by study and RR characteristics, mainly for outcomes exactly or closely equivalent to all lung cancer, squamous cell carcinoma (“squamous”) and adenocarcinoma (“adeno”). 
+ 
+ 
+ Results 
+ 287 studies (20 subsidiary) were identified. Although RR estimates were markedly heterogeneous, the meta-analyses demonstrated a relationship of smoking with lung cancer risk, clearly seen for ever smoking (random-effects RR 5.50, CI 5.07-5.96) current smoking (8.43, 7.63-9.31), ex smoking (4.30, 3.93-4.71) and pipe/cigar only smoking (2.92, 2.38-3.57). It was stronger for squamous (current smoking RR 16.91, 13.14-21.76) than adeno (4.21, 3.32-5.34), and evident in both sexes (RRs somewhat higher in males), all continents (RRs highest for North America and lowest for Asia, particularly China), and both study types (RRs higher for prospective studies). Relationships were somewhat stronger in later starting and larger studies. RR estimates were similar in cigarette only and mixed smokers, and similar in smokers of pipes/cigars only, pipes only and cigars only. Exceptionally no increase in adeno risk was seen for pipe/cigar only smokers (0.93, 0.62-1.40). RRs were unrelated to mentholation, and higher for non-filter and handrolled cigarettes. RRs increased with amount smoked, duration, earlier starting age, tar level and fraction smoked and decreased with time quit. Relationships were strongest for small and squamous cell, intermediate for large cell and weakest for adenocarcinoma. Covariate-adjustment little affected RR estimates. 
+ 
+ 
+ Conclusions 
+ The association of lung cancer with smoking is strong, evident for all lung cancer types, dose-related and insensitive to covariate-adjustment. This emphasises the causal nature of the relationship. Our results quantify the relationships more precisely than previously.

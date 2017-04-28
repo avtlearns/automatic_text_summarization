@@ -1,0 +1,20 @@
+<abstract id="Abs1">
+ 
+ Background 
+ There is currently no active surveillance of metastatic and non-malignant brain tumours in Canada as well as data on the health service use of children and youth with brain tumours. The objective of this study was to identify pediatric primary, metastatic, benign, and unspecified brain tumours in Ontario, Canada and to describe their health service use from a population based perspective. 
+ 
+ 
+ Methods 
+ The population based healthcare administrative databases National Ambulatory Care Reporting System and the Discharge Abstract Database were used. Patients with malignant (primary and metastatic), benign, and unspecified brain tumours in acute care between fiscal year 2003/04 and 2009/10 were identified using specified International Classification of Diseases version ten codes. 
+ 
+ 
+ Results 
+ Between fiscal year 2003/04 and 2009/10, there were 4022 brain tumour episodes of care (18.4 per 100,000 children and youth). Malignant brain tumors had the highest rates of episodes of care (14.9 times higher than that of benign and 5.7 times higher than that of unspecified brain tumours). Compared to patients with malignant brain tumours, those with benign brain tumours spent a longer period of time in acute care ( p  &lt; .05) and patients with unspecified brain tumours stayed in the intensive care units for a longer period of time ( p  &lt; .0001) with a lower proportion were discharged home ( p  &lt; .0001). 
+ 
+ 
+ Conclusion 
+ Despite higher rates of malignant brain tumour episodes of care, patients with benign and unspecified brain tumours also use acute care services and post-acute services that are currently not taken into account in healthcare planning and resource allocation. Active surveillance and research of metastatic and non-malignant brain tumours that can inform the planning of healthcare services and resource allocation for this population is encouraged. 
+ 
+ 
+ Electronic supplementary material 
+ The online version of this article (doi:10.1186/s12885-015-2016-0) contains supplementary material, which is available to authorized users.
