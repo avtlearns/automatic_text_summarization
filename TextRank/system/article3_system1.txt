@@ -1,0 +1,5 @@
+In most of the cases, the major cause of the failure in the development of drugs to treat brain diseases is the presence of BBB.
+This is due to molecular heterogeneity of the brain tumors, presence of CSCs, and lack of effective drug delivery because of the presence of BBB.
+Other nanosystems like polymeric micelles and dendrimers are also effective for targeted delivery of drugs to the tumors in the brain.
+Existing brain tumor drugs may also be modified to make analogue of the ligand to the particular receptor present in the BBB or the ligand or a peptide can be linked to a drug against the cellular receptors of BBB.
+Most of these transporters of BBB regulate the transport of brain tumor drugs by hindering their entry into the tumor regions.

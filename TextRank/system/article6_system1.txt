@@ -1,0 +1,5 @@
+The presence of P-gp and ceramide in EVs indicates the potential role of EV in mediating MDR, even though the mechanisms by which P-gp and ceramide-derived EVs can mediate MDR in prostate cancer are not clear.
+Both of these pathways are known to be involved in the survival of prostate cancer cells.
+The role of EVs in normal cellular growth and development has been reported as well as in the context of disease progression and cancer metastasis .
+Understanding the effect on EV pathways of various drugs used to target prostate cancer will help us to understand the role of EVs in mediating MDR in prostate cancer. 
+have reported the role of noncoding transcripts and transposable elements in stroma-derived exosomes in stimulating the activation of receptor RIG-I, which, in turn, activates the transcription factor STAT1-dependent signaling and Notch-3 in breast cancer cells, and accentuates the therapy resistance in tumor-initiating cells .

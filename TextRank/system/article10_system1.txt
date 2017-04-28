@@ -1,0 +1,5 @@
+In an analysis of time to diagnosis of melanoma, we found a 3-fold increase in risk after BCC (HR 3.28; 95% CI 1.66, 6.51), after adjustment for age, sex and smoking, skin reaction to chronic sun exposure and family history of non melanoma skin cancer.
+Sun sensitive skin type and family history of NMSC explained a small fraction of the excess melanoma risk after NMSC, but adjustment for several other known and putative cancer risk factors did not remove the association between NMSC and subsequent melanoma or other cancers.
+In the site-specific analysis, we further found that BCC but not SCC was associated with an increased risk of subsequent prostate cancer.
+After excluding melanoma, the hazard ratios reflecting cancer risk after BCC and SCC were lower, but still statistically significantly increased among men after BCC and among those aged &lt;60 at the time of diagnosis of SCC ( Table 3 ).
+However, we did detect an excess risk of melanoma following both BCC and SCC with significantly increased melanoma risk in participants reporting a family history of NMSC, but not a family history of melanoma which is a known risk factor for melanoma.
